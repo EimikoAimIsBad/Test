@@ -1,6 +1,7 @@
 # CarPriceMenu
 
-## [Video Demo](https://youtu.be/i_xbuGzeR_Q)
+## 🖥️ How to use
+   [Video Demo](www.google.com)
 
 ## ▶️ RUN
 - 1️⃣ Open terminal
