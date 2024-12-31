@@ -2,7 +2,7 @@
 
 ## [Video Demo](https://youtu.be/i_xbuGzeR_Q)
 
-## [🔧 RUN
+## ▶️ RUN
 - 1️⃣ Open terminal
 
 - 2️⃣ Change directory to the Project
@@ -15,4 +15,8 @@
     ```
     pip install -r requirements.txt
     ```
-## [🔧 RUN]
+## 📁 FILE list
+ -README.MD (your reading now)
+ -project.py (Project python file)
+ -test_project.py (Test Project file is correctly)
+ -requirements.txt (list of packages)
