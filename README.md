@@ -23,3 +23,16 @@
     ```bash
     python project.py
     ```
+
+## 📁 FILE list
+- **README.MD**  
+  <sub><sup>Your reading now<sub><sup>
+
+- **project.py**  
+  <sub><sup>Main Python file<sub><sup>
+
+- **test_project.py**  
+  <sub><sup>Test file to check python runs correctly<sub><sup>
+
+- **requirements.txt**  
+  <sub><sup>List of Python packages required for this project<sub><sup>
