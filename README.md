@@ -16,7 +16,7 @@
     pip install -r requirements.txt
     ```
 ## 📁 FILE list
- - README.MD (your reading now)
- - project.py (Project python file)
- - test_project.py (Test Project file is correctly)
- - requirements.txt (list of packages)
+ - README.MD <sub><sup>your reading now<sub><sup>
+ - project.py (<sub><sup>Project python file<sub><sup>
+ - test_project.py <sub><sup>Test Project file is correctly<sub><sup>
+ - requirements.txt <sub><sup>list of packages<sub><sup>)
