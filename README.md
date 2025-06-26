@@ -83,12 +83,12 @@ Car Price Viewer is a Python application that enables users to:
    - Press 1 to browse cars by brand
    - Press 2 to change currency settings
 - Example Usage Flow
-   -Launch program → Main Menu
-   -Select 2 → Choose $ USD
-   -Go back → Selec-  1 (By Brand)
-   -Choose 2 (Toyota)
-   -Select 3 (Supra Series)
-   -View prices in USD
-   -Press 1 to go back
+   - Launch program → Main Menu
+   - Select 2 → Choose $ USD
+   - Go back → Selec-  1 (By Brand)
+   - Choose 2 (Toyota)
+   - Select 3 (Supra Series)
+   - View prices in USD
+   - Press 1 to go back
 
 
