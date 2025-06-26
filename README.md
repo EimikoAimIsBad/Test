@@ -11,14 +11,14 @@ Car Price Viewer is a Python application that enables users to:
 - For people who live in cli
 
 ## ✨ Key Features
-- **📊  Reads and displays car prices from a CSV file
+- **📊 Reads and displays car prices from a CSV file
 - **🔍  Filtering**:
   - Filter by brand (Nissan, Toyota, Honda, Mazda, Subaru, Honda, Mitsubishi)
   - Filter by model (Skyline, Supra, NSX, etc.)
 - **💱  Currency Conversion**:
   - Japanese Yen (¥)
   - US Dollar ($)
-- **🖥️  CLIIIIIIIIIIII
+- **🖥️ CLIIIIIIIIIIII
 
 ## ▶️ RUN
 - 1️⃣ Open terminal
