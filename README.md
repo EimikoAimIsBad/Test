@@ -1,12 +1,24 @@
 # CarPriceMenu
-- 📊 Reads and displays car prices from a CSV file
-- 🔍 Filters by brand (Nissan, Toyota, Honda, etc.) and model (Skyline, Supra, NSX)
-- 💴 ↔ 💵 Toggle between Japanese Yen (¥) and US Dollars ($)
-- 🖥️ Simple menu-driven interface
-
 
 ## 🖥️ How to use
    [Video Demo](https://www.youtube.com/watch?v=b63efHsqfWY)
+
+## 📌 Overview
+Car Price Viewer is a Python application that enables users to:
+- Read and display car price data from CSV files
+- Filter data by brand and model
+- Switch between Japanese Yen (¥) and US Dollar ($) currencies
+- For people who live in cli
+
+## ✨ Key Features
+- **📊 Reads and displays car prices from a CSV file
+- **🔍  Filtering**:
+  - Filter by brand (Nissan, Toyota, Honda, Mazda, Subaru, Honda, Mitsubishi)
+  - Filter by model (Skyline, Supra, NSX, etc.)
+- **💱 Currency Conversion**:
+  - Japanese Yen (¥)
+  - US Dollar ($)
+- **🖥️ User-Friendly**: Simple menu-driven interface
 
 ## ▶️ RUN
 - 1️⃣ Open terminal
@@ -31,13 +43,13 @@
 
 ## 📁 FILE list
 - **README.MD**
-  <sub><sup>Your reading now<sub><sup>
+  - Your reading now
 
 - **project.py**
-  <sub><sup>Main Python file<sub><sup>
+  -Main Python file
 
 - **test_project.py**
-  <sub><sup>Test file to check python runs correctly<sub><sup>
+  -Test file to check python runs correctly
 
 - **requirements.txt**
-  <sub><sup>List of Python packages required for this project<sub><sup>
+  -List of Python packages required for this project
