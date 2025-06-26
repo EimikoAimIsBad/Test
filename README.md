@@ -60,15 +60,15 @@ Car Price Viewer is a Python application that enables users to:
 - Red options = Exit/back commands
 
 ## 📋 CSV Format Requirements
-    ```bash
+ ```bash
     Year,Brand,Series,Name,Price
     1998,Nissan,Skyline,R34 GT-R,¥6,500,000
     2002,Toyota,Supra,MKIV Twin Turbo,¥4,200,000
-    ```
+  ```
 
 ## How to use
     
-    ```bash
+   ```bash
       ------------------------------------------------------------------------------
                            Price 90's - early 00s JDM car  use pandas 
                                     Currency : ¥ Yen
@@ -79,7 +79,16 @@ Car Price Viewer is a Python application that enables users to:
         [3] Quit
       
       Please enter your choice: 
-    ```
-- Press 1 to browse cars by brand
-- Press 2 to change currency settings
+   ```
+   - Press 1 to browse cars by brand
+   - Press 2 to change currency settings
+- Example Usage Flow
+   -Launch program → Main Menu
+   -Select 2 → Choose $ USD
+   -Go back → Selec-  1 (By Brand)
+   -Choose 2 (Toyota)
+   -Select 3 (Supra Series)
+   -View prices in USD
+   -Press 1 to go back
+
 
